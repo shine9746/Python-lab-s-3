@@ -3,4 +3,4 @@ import os
 
 a = os.stat("C:/Users/USER/Desktop/Labs/Python-lab/Python-lab-s-3/Python-lab-s3-11/Python-lab-s3-11.txt")
 
-print("The file size is:",a.st_size,"bytes")
+print("The file size is:",a.st_size)
