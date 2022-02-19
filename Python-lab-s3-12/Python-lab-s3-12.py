@@ -1,4 +1,4 @@
-#Python programme to write  list into text file
+#Python programme to write a list to text file
 with open("C:/Users/USER/Desktop/Labs/Python-lab/Python-lab-s-3/Python-lab-s3-12/Python-lab-s3-12.txt","a") as File:
 
  List = File.write("apple,mango,pineapple,guava,plum,cherry")
