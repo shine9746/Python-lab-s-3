@@ -5,10 +5,8 @@ with open("C:/Users/USER/Desktop/Labs/Python-lab/Python-lab-s-3/Python-lab-s3-10
 
 
 b = {}   
-
-for i in a:
 	
-	words = a.casefold().split(" ")  #splited into word and caseinsensitive
+words = a.casefold().split(" ")  #splited into word and caseinsensitive
 		
 	
 for x in words:
