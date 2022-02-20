@@ -5,3 +5,7 @@ with open("C:/Users/USER/Desktop/Labs/Python-lab/Python-lab-s-3/Python-lab-s3-13
 
     for x in Fileone:
         Filetwo.write(x)
+with open("C:/Users/USER/Desktop/Labs/Python-lab/Python-lab-s-3/Python-lab-s3-13/Python-lab-s3-13-f2.txt","r") as Filetwo:
+      r =  Filetwo.read()
+      print("Contents in second file is : ")
+      print(r)
