@@ -1,0 +1,5 @@
+world.
+second line.
+line is this.
+seperated by two files.
+are combined to third file.

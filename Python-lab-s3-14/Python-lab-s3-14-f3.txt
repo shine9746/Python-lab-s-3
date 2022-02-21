@@ -1,0 +1,5 @@
+Hello world.
+This is second line.
+The third line is this.
+Each lines are seperated by two files.
+And the corresponding lines are combined to third file.
