@@ -4,7 +4,7 @@ with open("C:/Users/USER/Desktop/Labs/Python-lab/Python-lab-s-3/Python-lab-s3-14
       with open("C:/Users/USER/Desktop/Labs/Python-lab/Python-lab-s-3/Python-lab-s3-14/Python-lab-s3-14-f3.txt","w") as File3:
      
        f1 = File1.readlines()
-       f2= File2.readlines()
+       f2 = File2.readlines()
       
         
        for x in range(len(f1)):
